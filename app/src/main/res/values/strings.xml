@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stack Overflow</string>
+    <string name="note1">Kindly Note that we have lacs of pages on our server, if you wish to fetch any particular page, enter page number. Otherwise we will fetch data from any random page for your TAG.</string>
+    <string name="tag_note">If you are entering more than 1 TAG, then write the TAGs with semicolon(;) separated. For example- java;android;c++ . Also don\'t write more than 5 TAG at once </string>
+</resources>
